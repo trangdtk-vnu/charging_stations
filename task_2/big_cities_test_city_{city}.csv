@@ -1,2 +1,0 @@
-Model,Accuracy,Precision,Recall,F1-score,AUC,Balanced Accuracy
-DummyClassifier,0.9191583610188261,0.45957918050941304,0.5,0.4789382573571841,0.5,0.5
