@@ -48,7 +48,7 @@ This project aims to:
    - Access the curated datasets in the `/dataset` folder.  
 
 2. **Run the Analysis**:  
-   - Use the notebooks in `/task1`, `/task_2` and `/task_3` to replicate our ML experiments.   
+   - Use the notebooks in `/task_1`, `/task_2` and `/task_3` to replicate our ML experiments.   
 
 3. **Presentation**:  
    - View our project map and summary in the `/maps` and `/presentation` directory.  
